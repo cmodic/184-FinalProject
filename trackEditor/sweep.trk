@@ -1,0 +1,10 @@
+azimuth 45
+# global twist 360 degrees - i.e., a linearly increasing azimuth, starting at 0 degrees and ending at 360 degrees.
+twist -60
+
+v    10.0 -2.0 4.0 0 3
+v    -6.732 7.66 -4.0
+v    -6.732 -7.66 4.0
+v    10.0 2.0 -4.0 0 3
+v    -3.268  9.66 4.0
+v    -3.268  -9.66 -4.0
